@@ -9,7 +9,7 @@ export const geoApiOptions = {
 export const GEO_API_URL = "https://wft-geo-db.p.rapidapi.com/v1/geo"
 
 export const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5"
-export const WEATHER_API_KEY = "02dbdbf1989c9908b3754e03eff911d3"
+export const WEATHER_API_KEY = "xxx"
 
 export function getDirection(angle) {
     // We divide it into 16 sections

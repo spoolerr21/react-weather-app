@@ -25,6 +25,14 @@
       "react-app/jest"
     ]
   },
+  "overrides": {
+    "jsdom": {
+      "ws": "7.5.11"
+    },
+    "webpack-dev-server": {
+      "ws": "8.21.0"
+    }
+  },
   "browserslist": {
     "production": [
       ">0.2%",
